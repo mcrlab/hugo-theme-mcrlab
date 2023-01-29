@@ -29,7 +29,8 @@ menu:
 params:
     author: Author's Name
 
-
+    gtm_id: TAGNAME
+    gtm_ga: true
     defaultTheme: auto
     # disableThemeToggle: true
     ShowShareButtons: true
